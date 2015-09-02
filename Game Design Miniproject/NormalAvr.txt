@@ -1,0 +1,20 @@
+AvrFeedBack : 
+3.233333
+AvrPlay Time : 
+14.71954
+AvrFireDmg : 
+22
+AvrLaser : 
+23.33333
+AvrBeam : 
+11.66667
+AvrSpike : 
+16.66667
+AvrSaw : 
+10.66667
+AvrTrap : 
+6.333333
+AvrBomb : 
+3.666667
+AvrWin : 
+40

@@ -1,0 +1,21 @@
+2
+FeedBack : 
+2
+Play Time : 
+31.72682
+FireDmg : 
+10
+LaserDmg : 
+10
+BeamDmg : 
+10
+SpikeDmg : 
+00
+SawDmg : 
+00
+TrapDmg : 
+10
+BombDmg : 
+10
+Win : 
+1

@@ -1,0 +1,35 @@
+3
+SumFeedBack : 
+11
+AvrFeedBack : 3.666667
+FireDmg : 0
+LaserDmg : 0
+BeamDmg : 0
+SpikeDmg : 0
+SawDmg : 0
+TrapDmg : 0
+BombDmg : 90
+SumFire : 
+0
+SumLaser : 
+0
+SumBeam : 
+0
+SumSpike : 
+0
+SumSaw : 
+80
+SumTrap : 
+20
+SumBomb : 
+90
+WinSum : 
+1
+AvrFire : 0
+AvrLaser : 0
+AvrBeam : 0
+AvrSpike : 0
+AvrSaw : 26.66667
+AvrTrap : 6.666667
+AvrBomb : 30
+WinRate : 33.33333
